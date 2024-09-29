@@ -25,6 +25,5 @@ public class HerançaApp {
         System.out.println(pf.descricaoPF());
         System.out.println(pj.descricaoPJ());
 
-        scn.close();
     }
 }
