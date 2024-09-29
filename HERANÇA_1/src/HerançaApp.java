@@ -1,7 +1,5 @@
-import java.util.Scanner;
 public class HerançaApp {
     public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
 
         //Dados do funcionário
         Funcionario f1 = new Funcionario();
