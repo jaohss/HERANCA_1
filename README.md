@@ -1,18 +1,39 @@
-## Getting Started
+# Herança 1/4 - Empresa
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é explicado pelo entrada de dados de funcionários, clientes físicos e clientes jurídicos, onde há a aplicação dos conceito de herança, onde há uma superclasse chamada Pessoas, duas outras subsclasses chamadas Funcionários e Clientes, a subclasse chamada Clientes se dividia em outra duas subclasses de Pessoa fisica e pessoa jurídica, cada uma dessas classes possuem seus atributos específicos e comuns que são vindos da superclasse.
 
-## Folder Structure
+## 🚀 Começando
 
-The workspace contains two folders by default, where:
+Uma empresa possui como clientes pessoas físicas e jurídicas. Uma pessoa física possui nome, cpf, endereço e e-mail, enquanto uma pessoa jurídica possui nome, cnpj, endereço e email.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Há ainda a necessidade de cadastrar seus funcionários, onde cada funcionário possui nome, cpf, endereço e salário.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Crie classes adequadas para cada necessidade.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Teste as classes criando vários objetos.
+### 📋 Pré-requisitos
 
-## Dependency Management
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```
+.
+```
+
+### 🔧 Instalação
+
+* Com a entrada de dados de cada classe pedida, para depois ter o retorno dos dados organizados e exibidos.
+
+## 🛠️ Construído com
+
+Ferramentas utilizadas e bibliotecas
+
+* IDE Eclipse
+* VS Code
+
+## 📌 Versão
+
+* **Versão 1.0** 
+
+## ✒️ Autores
+
+* **João Henrique Santos da Silva** - *Trabalho Inicial* - Herança 1/4 - empresa
